@@ -1,0 +1,29 @@
+{
+  "name": "TiLike",
+  "slogan": "Connect with Friends, Live Your Life.",
+  "entity": "Chivalyouth Technology PTE.LTD.",
+  "address": "65 CHULIA STREET# 38-02 / 03 OCBC CENTRE SINGAPORE (049513)",
+  "copyright": "© 2024–2026 TiLike.",
+  "links": {
+    "apple": "",
+    "google": "https://play.google.com/store/apps/details?id=com.party.tilive",
+    "apk": "",
+    "recharge": "",
+    "email": "tilikecs@gmail.com",
+    "terms": "https://www.tilike.net/a/license/tilike-user.html?lang=en",
+    "privacy": "https://www.tilike.net/a/license/tilike-privacy.html?lang=en",
+    "children": "https://www.tilike.net/a/license/children-policy.html",
+    "xiaomi": "",
+    "oppo": "",
+    "vivo": "",
+    "huawei": ""
+  },
+  "palette": {
+    "primary": "#007b64",
+    "mint": "#00f0aa",
+    "lime": "#c5ff58",
+    "background": "#f5fff9",
+    "text": "#202027",
+    "border": "#cee9df"
+  }
+}

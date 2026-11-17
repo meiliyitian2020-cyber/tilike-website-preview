@@ -1,0 +1,13 @@
+{
+  "version": 19,
+  "commit": "f8026d91802eb907a54d9f84c349aa306ef098cd",
+  "source_sha256": "5a79698af859992878ad6febd33991ab814c252d432356617ab20a5d22435be5",
+  "css_layout_unchanged": true,
+  "scene_ids": [
+    "voice",
+    "live",
+    "pk",
+    "games",
+    "creator"
+  ]
+}

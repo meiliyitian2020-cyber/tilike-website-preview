@@ -1,0 +1,58 @@
+{
+  "heroDesktop": {
+    "file": "placeholder-hero-desktop.svg",
+    "canvas": [
+      1600,
+      900
+    ]
+  },
+  "heroMobile": {
+    "file": "placeholder-hero-mobile.svg",
+    "canvas": [
+      900,
+      1600
+    ]
+  },
+  "scenes": [
+    {
+      "slot": "voice",
+      "file": "placeholder-scene-1.svg",
+      "canvas": [
+        720,
+        1280
+      ]
+    },
+    {
+      "slot": "live",
+      "file": "placeholder-scene-2.svg",
+      "canvas": [
+        720,
+        1280
+      ]
+    },
+    {
+      "slot": "pk",
+      "file": "placeholder-scene-3.svg",
+      "canvas": [
+        720,
+        1280
+      ]
+    },
+    {
+      "slot": "games",
+      "file": "placeholder-scene-4.svg",
+      "canvas": [
+        720,
+        1280
+      ]
+    },
+    {
+      "slot": "creator",
+      "file": "placeholder-scene-5.svg",
+      "canvas": [
+        720,
+        1280
+      ]
+    }
+  ]
+}

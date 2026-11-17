@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-17",
+  "copy_policy": "All display copy and titles reuse confirmed Ola v19; replace product name and factual identity fields only.",
+  "home": {
+    "desktop": {
+      "languages": 4,
+      "control_rectangle_differences": [],
+      "tolerance_px": 0.7
+    },
+    "mobile": {
+      "languages": 4,
+      "control_rectangle_differences": [],
+      "tolerance_px": 0.7
+    }
+  },
+  "inner_controls": {
+    "combinations": 32,
+    "differences": [],
+    "tolerance_px": 0.7
+  },
+  "routes": {
+    "desktop": {
+      "count": 44,
+      "failures": []
+    },
+    "mobile": {
+      "count": 44,
+      "failures": []
+    }
+  },
+  "interactions": {
+    "download_popover": "pass; retained Xiaomi/OPPO/vivo/Huawei order",
+    "unknown_download": "pass; explicit unconfigured feedback",
+    "unknown_recharge": "pass; no payment integration",
+    "language_selector": "pass; en/id/hi/zh",
+    "mobile_menu": "pass",
+    "faq_search": "pass; matching and empty results",
+    "contact_validation": "pass; blank form blocked, valid form produces preview confirmation without sending",
+    "cookie_preferences": "pass; save and essential-only controls"
+  },
+  "display_media": "all placeholders; 16:9 desktop, 9:16 phone, five 720x1280 scenes",
+  "identity": "complete real TiLike logo; official icon cross-checked against supplied high-resolution icon",
+  "baseline_sha256_matches_original": true
+}

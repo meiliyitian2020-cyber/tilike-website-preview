@@ -1,0 +1,1006 @@
+{
+  "en": {
+    "nav": {
+      "home": "Home",
+      "about": "About us",
+      "help": "Help center",
+      "contact": "Contact us",
+      "safety": "Safety & rules",
+      "recharge": "Recharge",
+      "download": "Get the app"
+    },
+    "home": {
+      "title": "Party. Go live.<br><em>Make friends.</em>",
+      "description": "Meet people through group video, live streams and voice chat rooms. Your next good conversation starts on TiLike.",
+      "scenes": [
+        {
+          "id": "voice",
+          "title": "Chat in voice rooms",
+          "description": "Join rooms around your interests, listen, chat and meet new friends. Turn on your mic with ease, or start a private voice room with friends.",
+          "image": "social-scene-02.png",
+          "icon": "voice",
+          "source": "印度-英文 2.png"
+        },
+        {
+          "id": "live",
+          "title": "Interact with live streams",
+          "description": "Watch hosts sing, chat or show their talents. Join the conversation with live comments and show your support with virtual gifts.",
+          "image": "social-scene-01.png",
+          "icon": "live",
+          "source": "印度-英文 3.png"
+        },
+        {
+          "id": "pk",
+          "title": "Live PK",
+          "description": "Cheer for your favorite hosts and join real-time matchups, bringing the audience into the live experience.",
+          "image": "social-scene-05.png",
+          "icon": "live",
+          "source": "印度-英文 4.png"
+        },
+        {
+          "id": "games",
+          "title": "Chat and play mini-games",
+          "description": "Play casual mini-games with friends in voice rooms, giving every conversation more topics and ways to interact.",
+          "image": "social-scene-03.png",
+          "icon": "people",
+          "source": "印度-英文 1.png"
+        },
+        {
+          "id": "creator",
+          "title": "Go live and express yourself",
+          "description": "Sing, chat, or share your interests and talents as you gradually build your own audience.",
+          "image": "social-scene-04.png",
+          "icon": "video",
+          "source": "印度-英文 5.png"
+        }
+      ],
+      "downloadTitle": "Your next hello<br>is waiting.",
+      "downloadText": "Take the party with you. Download TiLike."
+    },
+    "footer": {
+      "tagline": "Party, live stream and make friends.<br>A little more connection, every day.",
+      "explore": "Explore",
+      "support": "Support",
+      "rules": "Safety & rules",
+      "terms": "Terms of Service",
+      "privacy": "Privacy Policy",
+      "children": "Child Safety Policy",
+      "community": "Community Guidelines",
+      "bullying": "Anti-bullying Policy",
+      "cookies": "Cookie Policy",
+      "law": "Law enforcement requests",
+      "settings": "Cookie preferences",
+      "copyright": "© 2026 TiLike. All rights reserved."
+    },
+    "about": {
+      "eyebrow": "A social live-streaming platform",
+      "title": "More ways to connect.<br>More reasons to smile.",
+      "intro": "TiLike brings group video, live streams and voice chat together, giving people more ways to interact and have fun.",
+      "heading": "A world worth<br>saying hello to.",
+      "paragraphs": [
+        "TiLike was founded by a technology company in Singapore. Our goal is to create more interesting content and apps for young users around the world, and improve the ways people interact and have fun.",
+        "We believe products like TiLike can give people a wider world, more opportunities to express themselves, and new ways to make friends."
+      ],
+      "values": [
+        [
+          "Meet your people",
+          "Explore group video and voice chat to connect with people around the world."
+        ],
+        [
+          "Express yourself",
+          "Watch live streams or share your own personality through live shows."
+        ],
+        [
+          "Make space for respect",
+          "Find safety information, community rules and ways to ask for help."
+        ]
+      ]
+    },
+    "help": {
+      "eyebrow": "We’re here to help",
+      "title": "A little help.<br>Back to the party.",
+      "intro": "Find answers about your account, downloads, recharge and staying safe.",
+      "placeholder": "Search questions, e.g. recharge or account",
+      "all": "All questions",
+      "account": "Account & access",
+      "payment": "Recharge",
+      "safety": "Safety & reporting",
+      "download": "Download & language",
+      "count": "questions",
+      "none": "No matching questions. Try another word or contact support.",
+      "more": "Still need a hand?",
+      "moreText": "Tell us what happened so we can understand your question.",
+      "contact": "Contact support",
+      "preparation": {
+        "title": "Before you contact support",
+        "all": [
+          "Choose the question category that best matches your issue.",
+          "Prepare your TiLike ID and a brief description."
+        ],
+        "account": [
+          "Your TiLike ID, usual sign-in method, and when the problem started.",
+          "For a suspended account, include the restriction notice. Do not share passwords or verification codes."
+        ],
+        "payment": [
+          "Account ID, transaction reference, time, amount and payment channel.",
+          "Attach a receipt with sensitive payment details hidden. Do not repeat a payment just to troubleshoot."
+        ],
+        "safety": [
+          "The relevant account or room ID, time and a brief description.",
+          "Keep relevant evidence. Avoid including unnecessary personal information."
+        ],
+        "download": [
+          "Your device model, operating system and chosen download channel.",
+          "Describe the error and include a screenshot if available."
+        ]
+      }
+    },
+    "faqs": [
+      [
+        "account",
+        "How can I get help signing in?",
+        "Check that you are using the same sign-in method as before. If you still need help, contact support with your TiLike ID if available, your device type, and a description of the issue. Never share your password or a verification code."
+      ],
+      [
+        "account",
+        "What can I do if I cannot access my account?",
+        "Collect your account ID and the sign-in method you normally use. Contact support and describe when the issue started. Support will advise on the available recovery steps; account recovery is subject to verification."
+      ],
+      [
+        "account",
+        "Where can I ask about a suspended account?",
+        "Contact support with your account ID and the notice you received. Explain the issue clearly so it can be reviewed. This FAQ does not promise account reinstatement or a review time."
+      ],
+      [
+        "payment",
+        "What if a recharge has not appeared?",
+        "Check your order status and confirm which account you recharged. Keep the transaction reference, time, amount and a screenshot with sensitive payment details hidden. Contact support if the issue remains. Avoid making another payment just to troubleshoot."
+      ],
+      [
+        "payment",
+        "Where can I find my transaction information?",
+        "Check the receipt or transaction history for the payment channel you used. Keep the reference number and the TiLike account ID related to the recharge. Do not send your full card details."
+      ],
+      [
+        "safety",
+        "How can I report inappropriate behavior?",
+        "Use an in-app report option where available, or contact support. Include the account or room ID, a brief description, and relevant evidence. Avoid sharing another person’s private information unnecessarily."
+      ],
+      [
+        "safety",
+        "How can I protect my account?",
+        "Keep your password and verification codes private. Be cautious about unofficial recharge offers, links or anyone asking for your login information. Use the official download and support channels."
+      ],
+      [
+        "download",
+        "Where can I download TiLike?",
+        "Use the App Store, Google Play or Android APK links on this website. The current review version shows the channel choices without opening download destinations."
+      ],
+      [
+        "download",
+        "How do I change the website language?",
+        "Use the language selector in the top navigation. Choose the website language from the menu. The language of the app is managed separately."
+      ]
+    ],
+    "safety": {
+      "eyebrow": "A more respectful place to connect",
+      "title": "Good company.<br>Shared responsibility.",
+      "intro": "Find information about privacy, community conduct and getting help on TiLike.",
+      "heading": "Know the rules.<br>Look out for each other.",
+      "description": "Keep the information you need within reach: from your privacy and platform terms to community conduct and ways to raise a concern.",
+      "current": "Current policy",
+      "draft": "For review"
+    },
+    "policyDescriptions": {
+      "terms": "The terms that apply to using TiLike.",
+      "privacy": "How information is handled on the platform.",
+      "children": "Information about protecting children’s safety and privacy.",
+      "bullying": "A proposed home for anti-bullying guidance.",
+      "cookies": "A proposed explanation of cookies and preference controls.",
+      "community": "A proposed guide to respectful participation.",
+      "law": "A proposed entry point for authorized legal requests."
+    },
+    "contact": {
+      "eyebrow": "Let’s get in touch",
+      "title": "Good conversations<br>start with hello.",
+      "intro": "Need a hand, or have something to share? Choose the right way to reach us.",
+      "supportTitle": "Need help with TiLike?",
+      "supportText": "Find guidance on account access, recharge and safety in the help center.",
+      "supportAction": "Visit the help center",
+      "businessTitle": "Have a partnership in mind?",
+      "businessText": "Contact us about business collaboration, creators and general inquiries using the form below.",
+      "formTitle": "Send an inquiry",
+      "formIntro": "Preview form: review the fields and flow. No message will be sent.",
+      "name": "Your name",
+      "email": "Email address",
+      "topic": "What’s this about?",
+      "topics": [
+        "Account & support",
+        "Business collaboration",
+        "Creator inquiry",
+        "Other"
+      ],
+      "message": "Tell us a little more",
+      "placeholder": "Include the details that help explain your question. Do not include passwords, verification codes or full payment details.",
+      "consent": "I have read the Privacy Policy and understand that this is a preview form.",
+      "submit": "Preview submission",
+      "success": "The form passed validation. This is a preview; no message has been sent.",
+      "again": "Start another inquiry"
+    },
+    "policy": {
+      "source": "Existing TiLike policy",
+      "sourceNote": "This policy is currently provided in English. Follow the official policy link for the latest published version.",
+      "official": "Open the current official policy",
+      "draftLabel": "Proposed content outline",
+      "draftNote": "This page is a structure for product review, not a published policy. Final policy content and process must be supplied and approved before launch.",
+      "outline": "Content to confirm",
+      "back": "Back to safety & rules"
+    },
+    "cookie": {
+      "title": "Your cookie preferences",
+      "intro": "Choose your preferences for this preview. It contains no analytics or advertising trackers.",
+      "essential": "Essential preferences",
+      "essentialText": "Remember the language and the preferences you choose.",
+      "always": "Always available",
+      "analytics": "Optional analytics",
+      "analyticsText": "An example control for future measurement. No analytics service is connected.",
+      "save": "Save preferences",
+      "reject": "Essential only",
+      "note": "Preferences stay in this browser where local storage is available. Final cookie categories and consent requirements need confirmation.",
+      "saved": "Your preview preferences have been saved."
+    }
+  },
+  "zh": {
+    "nav": {
+      "home": "首页",
+      "about": "关于我们",
+      "help": "帮助中心",
+      "contact": "联系我们",
+      "safety": "安全与规则",
+      "recharge": "充值",
+      "download": "下载应用"
+    },
+    "home": {
+      "title": "一起玩，开直播。<br><em>交个新朋友。</em>",
+      "description": "通过多人视频、精彩直播和语音聊天室，发现聊得来的人。在 TiLike，让下一次相遇从一句你好开始。",
+      "scenes": [
+        {
+          "id": "voice",
+          "title": "语音房畅聊",
+          "description": "加入兴趣房间，边听边聊、结识新朋友；轻松开麦，也可以和好友开私密语音房。",
+          "image": "social-scene-02.png",
+          "icon": "voice",
+          "source": "印度-英文 2.png"
+        },
+        {
+          "id": "live",
+          "title": "直播互动",
+          "description": "看主播唱歌、聊天或展示才艺，实时评论互动，用虚拟礼物表达支持。",
+          "image": "social-scene-01.png",
+          "icon": "live",
+          "source": "印度-英文 3.png"
+        },
+        {
+          "id": "pk",
+          "title": "直播 PK",
+          "description": "为喜欢的主播助阵、参与实时对决，让观众也成为直播现场的一部分。",
+          "image": "social-scene-05.png",
+          "icon": "live",
+          "source": "印度-英文 4.png"
+        },
+        {
+          "id": "games",
+          "title": "边聊边玩小游戏",
+          "description": "在语音房里和朋友一起玩轻量小游戏，让聊天有更多话题和互动。",
+          "image": "social-scene-03.png",
+          "icon": "people",
+          "source": "印度-英文 1.png"
+        },
+        {
+          "id": "creator",
+          "title": "开播展示自己",
+          "description": "唱歌、聊天、分享兴趣或才艺，逐步建立自己的观众圈。",
+          "image": "social-scene-04.png",
+          "icon": "video",
+          "source": "印度-英文 5.png"
+        }
+      ],
+      "downloadTitle": "下一句你好，<br>正在等你。",
+      "downloadText": "把快乐带在身边，下载 TiLike。"
+    },
+    "footer": {
+      "tagline": "一起玩、看直播、交朋友。<br>让每天的相遇，多一点快乐。",
+      "explore": "探索",
+      "support": "用户支持",
+      "rules": "安全与规则",
+      "terms": "用户服务协议",
+      "privacy": "隐私政策",
+      "children": "儿童安全政策",
+      "community": "社区公约",
+      "bullying": "反欺凌政策",
+      "cookies": "Cookie 政策",
+      "law": "执法部门请求",
+      "settings": "Cookie 偏好设置",
+      "copyright": "© 2026 TiLike. 保留所有权利。"
+    },
+    "about": {
+      "eyebrow": "社交直播平台",
+      "title": "多一种相遇。<br>多一个微笑的理由。",
+      "intro": "TiLike 将多人视频、直播和语音聊天连接起来，为人们提供更多互动和享受乐趣的方式。",
+      "heading": "更大的世界，<br>从一句你好开始。",
+      "paragraphs": [
+        "TiLike 由一家位于新加坡的科技公司创立。我们希望为世界各地的年轻用户创造更有趣的内容和应用，不断改善人们互动和享受乐趣的方式。",
+        "我们相信，TiLike 这样的产品可以为人们打开更广阔的世界，创造表达自我的机会，也带来结识新朋友的方式。"
+      ],
+      "values": [
+        [
+          "遇见聊得来的人",
+          "通过多人视频和语音聊天，与世界各地的人建立连接。"
+        ],
+        [
+          "表达自己的个性",
+          "观看精彩直播，或通过直播表演展示自己。"
+        ],
+        [
+          "为尊重留出空间",
+          "轻松找到安全信息、社区规则以及寻求帮助的入口。"
+        ]
+      ]
+    },
+    "help": {
+      "eyebrow": "需要帮助，我们在这里",
+      "title": "一点帮助。<br>继续快乐相聚。",
+      "intro": "查找关于账号、下载、充值和安全使用的常见问题。",
+      "placeholder": "搜索问题，例如：充值、账号",
+      "all": "全部问题",
+      "account": "账号与登录",
+      "payment": "充值问题",
+      "safety": "安全与举报",
+      "download": "下载与语言",
+      "count": "个问题",
+      "none": "没有找到匹配的问题。试试其他关键词，或联系用户支持。",
+      "more": "还需要帮助？",
+      "moreText": "告诉我们发生了什么，帮助我们了解你的问题。",
+      "contact": "联系用户支持",
+      "preparation": {
+        "title": "联系前，准备这些信息",
+        "all": [
+          "选择最接近你问题的分类。",
+          "准备好 TiLike 账号 ID 和简要问题描述。"
+        ],
+        "account": [
+          "账号 ID、常用登录方式，以及问题开始的时间。",
+          "咨询账号限制时附上相关提示；不要提供密码或验证码。"
+        ],
+        "payment": [
+          "账号 ID、交易编号、付款时间、金额及支付渠道。",
+          "准备已隐藏敏感支付信息的凭证；不要为了排查问题重复支付。"
+        ],
+        "safety": [
+          "相关账号或房间 ID、发生时间及简要说明。",
+          "保留必要证据，避免附带无关个人隐私。"
+        ],
+        "download": [
+          "设备型号、系统版本及使用的下载渠道。",
+          "说明具体报错；有条件时附上错误截图。"
+        ]
+      }
+    },
+    "faqs": [
+      [
+        "account",
+        "登录遇到问题，怎么办？",
+        "请先确认使用的是此前相同的登录方式。如仍有问题，请提供可用的 TiLike 账号 ID、设备类型和问题描述，联系用户支持。不要提供密码或验证码。"
+      ],
+      [
+        "account",
+        "无法访问原来的账号，如何求助？",
+        "准备好账号 ID 和日常使用的登录方式，向用户支持说明问题开始的时间。账号找回需经过身份核验，具体处理方式以实际支持流程为准。"
+      ],
+      [
+        "account",
+        "账号被限制或封禁，可以在哪里咨询？",
+        "请提供账号 ID 和收到的相关提示，向用户支持清晰说明情况，以便核查。本说明不承诺账号恢复或具体处理时限。"
+      ],
+      [
+        "payment",
+        "充值后没有到账，怎么办？",
+        "先检查订单状态，并确认充值账号。保留交易编号、时间、金额及已隐藏敏感支付信息的截图。如问题仍存在，请联系用户支持。不要为了排查问题而重复支付。"
+      ],
+      [
+        "payment",
+        "在哪里查找交易凭证？",
+        "请查看付款渠道的收据或交易记录，保留交易编号和相关 TiLike 账号 ID。不要提交完整银行卡信息。"
+      ],
+      [
+        "safety",
+        "如何举报不当行为？",
+        "优先使用应用内可用的举报入口，或联系用户支持。提供相关账号或房间 ID、简要描述以及必要证据，避免不必要地披露他人的隐私。"
+      ],
+      [
+        "safety",
+        "如何保护自己的账号？",
+        "不要向他人透露密码和验证码。谨慎对待非官方充值优惠、链接以及索要登录信息的人。通过官方渠道下载应用和寻求帮助。"
+      ],
+      [
+        "download",
+        "在哪里下载 TiLike？",
+        "通过本站的 App Store、Google Play 或 Android APK 按钮前往现有官方下载渠道。当前评审版本仅展示渠道与样式，暂不跳转下载。"
+      ],
+      [
+        "download",
+        "如何切换官网语言？",
+        "使用顶部导航的语言选择器。在菜单中选择需要的官网语言。应用内语言由应用自身的设置管理。"
+      ]
+    ],
+    "safety": {
+      "eyebrow": "让每次相遇，多一点尊重",
+      "title": "好的陪伴。<br>共同的责任。",
+      "intro": "了解 TiLike 的隐私保护、社区行为规范和安全求助方式。",
+      "heading": "了解规则。<br>也照顾彼此。",
+      "description": "从隐私保护、平台协议到社区行为规范和问题反馈，让你需要的信息更容易找到。",
+      "current": "已有政策",
+      "draft": "待确认"
+    },
+    "policyDescriptions": {
+      "terms": "使用 TiLike 时适用的服务条款。",
+      "privacy": "平台如何处理相关信息。",
+      "children": "有关儿童安全和隐私保护的信息。",
+      "bullying": "拟新增的反欺凌说明入口。",
+      "cookies": "拟新增的 Cookie 说明与偏好控制。",
+      "community": "拟新增的尊重参与和社区行为指南。",
+      "law": "拟新增的合法授权请求入口。"
+    },
+    "contact": {
+      "eyebrow": "从一句你好开始联系",
+      "title": "一次好的沟通，<br>从这里开始。",
+      "intro": "需要帮助，或有新的想法？找到合适的方式与我们联系。",
+      "supportTitle": "使用 TiLike 遇到问题？",
+      "supportText": "先到帮助中心查找账号、充值与安全问题的说明。",
+      "supportAction": "前往帮助中心",
+      "businessTitle": "想聊聊合作？",
+      "businessText": "通过下方表单描述商务合作、创作者或其他咨询。",
+      "formTitle": "告诉我们你的想法",
+      "formIntro": "评审用表单：用于确认字段和流程，不会发送消息。",
+      "name": "你的姓名",
+      "email": "电子邮箱",
+      "topic": "咨询类型",
+      "topics": [
+        "账号与用户支持",
+        "商务合作",
+        "创作者咨询",
+        "其他"
+      ],
+      "message": "详细描述",
+      "placeholder": "请填写有助于理解问题的信息，不要提供密码、验证码或完整支付信息。",
+      "consent": "我已阅读隐私政策，并了解当前为预览表单。",
+      "submit": "预览提交流程",
+      "success": "表单校验通过。当前为预览版本，没有发送任何消息。",
+      "again": "再填写一条咨询"
+    },
+    "policy": {
+      "source": "TiLike 现有政策",
+      "sourceNote": "本政策目前提供英文正文。最新发布版本可通过下方官方政策链接查看。",
+      "official": "查看官网现行政策",
+      "draftLabel": "拟新增的内容结构",
+      "draftNote": "此页为产品评审用结构，不是已发布政策。上线前需补齐并审核正式政策及处理流程。",
+      "outline": "需要确认的内容",
+      "back": "返回安全与规则"
+    },
+    "cookie": {
+      "title": "你的 Cookie 偏好",
+      "intro": "设置当前预览的偏好。本版本不包含分析或广告追踪器。",
+      "essential": "必要偏好",
+      "essentialText": "记住所选的语言和偏好设置。",
+      "always": "始终可用",
+      "analytics": "可选分析",
+      "analyticsText": "为后续统计预留的交互示例，目前未接入任何分析服务。",
+      "save": "保存偏好",
+      "reject": "仅保留必要项",
+      "note": "浏览器允许时，偏好仅保存在当前浏览器。正式 Cookie 类别与同意要求需另行确认。",
+      "saved": "已保存当前预览的偏好设置。"
+    }
+  },
+  "id": {
+    "nav": {
+      "home": "Beranda",
+      "about": "Tentang kami",
+      "help": "Pusat bantuan",
+      "contact": "Hubungi kami",
+      "safety": "Keamanan & aturan",
+      "recharge": "Isi ulang",
+      "download": "Unduh aplikasi"
+    },
+    "home": {
+      "title": "Pesta. Siaran live.<br><em>Temukan teman.</em>",
+      "description": "Kenali orang baru melalui video grup, siaran live, dan ruang obrolan suara. Percakapan seru berikutnya dimulai di TiLike.",
+      "scenes": [
+        {
+          "id": "voice",
+          "title": "Mengobrol di ruang suara",
+          "description": "Bergabunglah dengan ruang sesuai minat, dengarkan, mengobrol, dan temukan teman baru. Nyalakan mikrofon dengan mudah atau buat ruang suara pribadi bersama teman.",
+          "image": "social-scene-02.png",
+          "icon": "voice",
+          "source": "印度-英文 2.png"
+        },
+        {
+          "id": "live",
+          "title": "Interaksi siaran langsung",
+          "description": "Tonton host bernyanyi, mengobrol, atau menunjukkan bakat. Berinteraksi melalui komentar langsung dan berikan dukungan dengan hadiah virtual.",
+          "image": "social-scene-01.png",
+          "icon": "live",
+          "source": "印度-英文 3.png"
+        },
+        {
+          "id": "pk",
+          "title": "PK siaran langsung",
+          "description": "Dukung host favorit dan ikuti duel secara langsung, agar penonton menjadi bagian dari suasana siaran.",
+          "image": "social-scene-05.png",
+          "icon": "live",
+          "source": "印度-英文 4.png"
+        },
+        {
+          "id": "games",
+          "title": "Mengobrol dan bermain mini-game",
+          "description": "Mainkan mini-game ringan bersama teman di ruang suara untuk menambah topik percakapan dan interaksi.",
+          "image": "social-scene-03.png",
+          "icon": "people",
+          "source": "印度-英文 1.png"
+        },
+        {
+          "id": "creator",
+          "title": "Siaran dan tampilkan dirimu",
+          "description": "Bernyanyi, mengobrol, berbagi minat atau bakat, dan bangun komunitas penontonmu secara bertahap.",
+          "image": "social-scene-04.png",
+          "icon": "video",
+          "source": "印度-英文 5.png"
+        }
+      ],
+      "downloadTitle": "Sapaan berikutnya<br>menantimu.",
+      "downloadText": "Bawa keseruan bersamamu. Unduh TiLike."
+    },
+    "footer": {
+      "tagline": "Pesta, siaran live, dan berteman.<br>Lebih banyak koneksi setiap hari.",
+      "explore": "Jelajahi",
+      "support": "Dukungan",
+      "rules": "Keamanan & aturan",
+      "terms": "Ketentuan Layanan",
+      "privacy": "Kebijakan Privasi",
+      "children": "Keamanan Anak",
+      "community": "Pedoman Komunitas",
+      "bullying": "Kebijakan Anti-perundungan",
+      "cookies": "Kebijakan Cookie",
+      "law": "Permintaan penegak hukum",
+      "settings": "Preferensi cookie",
+      "copyright": "© 2026 TiLike. Hak cipta dilindungi."
+    },
+    "about": {
+      "eyebrow": "Platform siaran live sosial",
+      "title": "Lebih banyak cara terhubung.<br>Lebih banyak alasan tersenyum.",
+      "intro": "TiLike menghadirkan video grup, siaran live, dan obrolan suara untuk berinteraksi dan bersenang-senang.",
+      "heading": "Dunia yang layak<br>untuk disapa.",
+      "paragraphs": [
+        "TiLike didirikan oleh perusahaan teknologi di Singapura. Tujuan kami adalah menciptakan konten dan aplikasi yang lebih menarik bagi pengguna muda di seluruh dunia serta meningkatkan cara berinteraksi dan bersenang-senang.",
+        "Kami percaya produk seperti TiLike dapat membuka dunia yang lebih luas, memberi kesempatan berekspresi, dan menghadirkan cara baru untuk berteman."
+      ],
+      "values": [
+        [
+          "Temukan temanmu",
+          "Kenali orang dari seluruh dunia melalui video grup dan obrolan suara."
+        ],
+        [
+          "Ekspresikan dirimu",
+          "Tonton siaran live atau tunjukkan kepribadianmu melalui pertunjukan."
+        ],
+        [
+          "Berikan ruang untuk hormat",
+          "Temukan informasi keamanan, aturan komunitas, dan cara meminta bantuan."
+        ]
+      ]
+    },
+    "help": {
+      "eyebrow": "Kami di sini untuk membantu",
+      "title": "Sedikit bantuan.<br>Kembali ke keseruan.",
+      "intro": "Temukan jawaban tentang akun, unduhan, isi ulang, dan keamanan.",
+      "placeholder": "Cari pertanyaan, misalnya akun atau isi ulang",
+      "all": "Semua pertanyaan",
+      "account": "Akun & akses",
+      "payment": "Isi ulang",
+      "safety": "Keamanan & laporan",
+      "download": "Unduhan & bahasa",
+      "count": "pertanyaan",
+      "none": "Tidak ada pertanyaan yang sesuai. Coba kata lain atau hubungi dukungan.",
+      "more": "Masih perlu bantuan?",
+      "moreText": "Ceritakan yang terjadi agar kami dapat memahami pertanyaanmu.",
+      "contact": "Hubungi dukungan",
+      "preparation": {
+        "title": "Sebelum menghubungi dukungan",
+        "all": [
+          "Pilih kategori yang paling sesuai dengan masalah Anda.",
+          "Siapkan ID TiLike dan penjelasan singkat."
+        ],
+        "account": [
+          "ID TiLike, metode masuk yang biasa dipakai, dan waktu masalah dimulai.",
+          "Untuk akun yang dibatasi, sertakan pemberitahuannya. Jangan bagikan kata sandi atau kode verifikasi."
+        ],
+        "payment": [
+          "ID akun, nomor transaksi, waktu, jumlah, dan kanal pembayaran.",
+          "Siapkan bukti dengan data pembayaran sensitif disamarkan. Jangan mengulangi pembayaran untuk mencoba memperbaiki masalah."
+        ],
+        "safety": [
+          "ID akun atau ruang terkait, waktu kejadian, dan penjelasan singkat.",
+          "Simpan bukti yang relevan tanpa informasi pribadi yang tidak diperlukan."
+        ],
+        "download": [
+          "Model perangkat, versi sistem operasi, dan kanal unduhan.",
+          "Jelaskan pesan kesalahan dan sertakan tangkapan layar jika tersedia."
+        ]
+      }
+    },
+    "faqs": [
+      [
+        "account",
+        "Bagaimana jika saya kesulitan masuk?",
+        "Pastikan kamu menggunakan metode masuk yang sama seperti sebelumnya. Jika masih bermasalah, hubungi dukungan dengan ID TiLike bila tersedia, jenis perangkat, dan penjelasan masalah. Jangan bagikan kata sandi atau kode verifikasi."
+      ],
+      [
+        "account",
+        "Apa yang harus dilakukan jika akun tidak bisa diakses?",
+        "Siapkan ID akun dan metode masuk yang biasanya digunakan. Jelaskan kapan masalah dimulai. Dukungan akan memberi petunjuk pemulihan yang tersedia; pemulihan akun memerlukan verifikasi."
+      ],
+      [
+        "account",
+        "Di mana saya dapat bertanya tentang akun yang ditangguhkan?",
+        "Hubungi dukungan dengan ID akun dan pemberitahuan yang diterima. Jelaskan masalah dengan jelas untuk ditinjau. FAQ ini tidak menjanjikan pemulihan akun atau waktu peninjauan."
+      ],
+      [
+        "payment",
+        "Bagaimana jika isi ulang belum masuk?",
+        "Periksa status pesanan dan akun tujuan isi ulang. Simpan referensi transaksi, waktu, jumlah, dan tangkapan layar dengan detail sensitif disembunyikan. Hubungi dukungan jika masalah berlanjut. Hindari pembayaran ulang hanya untuk mencoba."
+      ],
+      [
+        "payment",
+        "Di mana saya menemukan informasi transaksi?",
+        "Periksa tanda terima atau riwayat transaksi pada kanal pembayaran yang digunakan. Simpan nomor referensi dan ID akun TiLike yang terkait. Jangan kirim detail kartu lengkap."
+      ],
+      [
+        "safety",
+        "Bagaimana cara melaporkan perilaku tidak pantas?",
+        "Gunakan fitur laporan dalam aplikasi jika tersedia, atau hubungi dukungan. Sertakan ID akun atau ruang, penjelasan singkat, dan bukti yang relevan. Hindari membagikan informasi pribadi orang lain tanpa perlu."
+      ],
+      [
+        "safety",
+        "Bagaimana menjaga keamanan akun?",
+        "Rahasiakan kata sandi dan kode verifikasi. Waspadai penawaran isi ulang tidak resmi, tautan mencurigakan, atau pihak yang meminta data masuk. Gunakan kanal unduhan dan dukungan resmi."
+      ],
+      [
+        "download",
+        "Di mana saya dapat mengunduh TiLike?",
+        "Gunakan tautan App Store, Google Play, atau APK Android di situs ini. Tombol akan membuka tujuan unduhan resmi yang sudah ada dan memerlukan koneksi internet."
+      ],
+      [
+        "download",
+        "Bagaimana mengganti bahasa situs?",
+        "Gunakan pemilih bahasa pada navigasi atas. Pilih bahasa situs yang diinginkan dari menu. Bahasa aplikasi diatur secara terpisah."
+      ]
+    ],
+    "safety": {
+      "eyebrow": "Tempat terhubung yang saling menghormati",
+      "title": "Teman yang baik.<br>Tanggung jawab bersama.",
+      "intro": "Temukan informasi privasi, perilaku komunitas, dan cara mendapatkan bantuan di TiLike.",
+      "heading": "Kenali aturannya.<br>Peduli satu sama lain.",
+      "description": "Temukan informasi yang diperlukan: privasi, ketentuan platform, perilaku komunitas, serta cara menyampaikan masalah.",
+      "current": "Kebijakan saat ini",
+      "draft": "Untuk ditinjau"
+    },
+    "policyDescriptions": {
+      "terms": "Ketentuan yang berlaku saat menggunakan TiLike.",
+      "privacy": "Cara informasi ditangani oleh platform.",
+      "children": "Informasi perlindungan keamanan dan privasi anak.",
+      "bullying": "Usulan akses panduan anti-perundungan.",
+      "cookies": "Usulan penjelasan cookie dan pengaturan preferensi.",
+      "community": "Usulan panduan partisipasi yang saling menghormati.",
+      "law": "Usulan akses permintaan hukum yang sah."
+    },
+    "contact": {
+      "eyebrow": "Mari terhubung",
+      "title": "Percakapan yang baik<br>dimulai dengan sapaan.",
+      "intro": "Perlu bantuan atau ingin berbagi ide? Pilih cara yang tepat untuk menghubungi kami.",
+      "supportTitle": "Perlu bantuan dengan TiLike?",
+      "supportText": "Temukan panduan tentang akun, isi ulang, dan keamanan di pusat bantuan.",
+      "supportAction": "Buka pusat bantuan",
+      "businessTitle": "Punya ide kerja sama?",
+      "businessText": "Gunakan formulir di bawah untuk pertanyaan kerja sama bisnis, kreator, dan pertanyaan umum.",
+      "formTitle": "Kirim pertanyaan",
+      "formIntro": "Formulir pratinjau: tinjau kolom dan alurnya. Tidak ada pesan yang akan dikirim.",
+      "name": "Nama",
+      "email": "Alamat email",
+      "topic": "Topik pertanyaan",
+      "topics": [
+        "Akun & dukungan",
+        "Kerja sama bisnis",
+        "Pertanyaan kreator",
+        "Lainnya"
+      ],
+      "message": "Ceritakan lebih lanjut",
+      "placeholder": "Sertakan detail yang menjelaskan pertanyaanmu. Jangan masukkan kata sandi, kode verifikasi, atau informasi pembayaran lengkap.",
+      "consent": "Saya telah membaca Kebijakan Privasi dan memahami ini adalah formulir pratinjau.",
+      "submit": "Pratinjau pengiriman",
+      "success": "Formulir berhasil divalidasi. Ini adalah pratinjau; tidak ada pesan yang dikirim.",
+      "again": "Buat pertanyaan lain"
+    },
+    "policy": {
+      "source": "Kebijakan TiLike saat ini",
+      "sourceNote": "Kebijakan ini tersedia dalam bahasa Inggris. Buka tautan kebijakan resmi untuk versi terbaru yang diterbitkan.",
+      "official": "Buka kebijakan resmi saat ini",
+      "draftLabel": "Usulan kerangka konten",
+      "draftNote": "Halaman ini adalah kerangka peninjauan produk, bukan kebijakan yang diterbitkan. Konten final dan proses harus disediakan serta disetujui sebelum peluncuran.",
+      "outline": "Konten yang perlu dikonfirmasi",
+      "back": "Kembali ke keamanan & aturan"
+    },
+    "cookie": {
+      "title": "Preferensi cookie kamu",
+      "intro": "Pilih preferensi untuk pratinjau ini. Tidak ada pelacak analitik atau iklan.",
+      "essential": "Preferensi penting",
+      "essentialText": "Mengingat bahasa dan preferensi yang dipilih.",
+      "always": "Selalu tersedia",
+      "analytics": "Analitik opsional",
+      "analyticsText": "Contoh kontrol untuk pengukuran mendatang. Tidak ada layanan analitik terhubung.",
+      "save": "Simpan preferensi",
+      "reject": "Hanya yang penting",
+      "note": "Preferensi disimpan di browser ini jika penyimpanan lokal tersedia. Kategori cookie dan persetujuan final perlu dikonfirmasi.",
+      "saved": "Preferensi pratinjau telah disimpan."
+    }
+  },
+  "hi": {
+    "nav": {
+      "home": "होम",
+      "about": "हमारे बारे में",
+      "help": "सहायता केंद्र",
+      "contact": "संपर्क करें",
+      "safety": "सुरक्षा और नियम",
+      "recharge": "रिचार्ज",
+      "download": "ऐप डाउनलोड करें"
+    },
+    "home": {
+      "title": "मिलें। लाइव आएँ।<br><em>नए दोस्त बनाएँ।</em>",
+      "description": "ग्रुप वीडियो, लाइव स्ट्रीम और वॉइस रूम में नए लोगों से जुड़ें। TiLike पर अगली अच्छी बातचीत एक हैलो से शुरू होती है।",
+      "scenes": [
+        {
+          "id": "voice",
+          "title": "वॉइस रूम में बातें करें",
+          "description": "अपनी पसंद के रूम से जुड़ें, सुनें, बातें करें और नए दोस्त बनाएँ। माइक चालू करें या दोस्तों के साथ निजी वॉइस रूम बनाएँ।",
+          "image": "social-scene-02.png",
+          "icon": "voice",
+          "source": "印度-英文 2.png"
+        },
+        {
+          "id": "live",
+          "title": "लाइव में जुड़ें",
+          "description": "होस्ट को गाते, बातें करते या अपनी प्रतिभा दिखाते देखें। कमेंट करें और वर्चुअल गिफ़्ट से अपना समर्थन जताएँ।",
+          "image": "social-scene-01.png",
+          "icon": "live",
+          "source": "印度-英文 3.png"
+        },
+        {
+          "id": "pk",
+          "title": "लाइव PK",
+          "description": "अपने पसंदीदा होस्ट का हौसला बढ़ाएँ और रियल-टाइम मुकाबले में शामिल होकर लाइव का हिस्सा बनें।",
+          "image": "social-scene-05.png",
+          "icon": "live",
+          "source": "印度-英文 4.png"
+        },
+        {
+          "id": "games",
+          "title": "बातें भी, गेम भी",
+          "description": "वॉइस रूम में दोस्तों के साथ छोटे मज़ेदार गेम खेलें और बातचीत को नए विषय और नए रंग दें।",
+          "image": "social-scene-03.png",
+          "icon": "people",
+          "source": "印度-英文 1.png"
+        },
+        {
+          "id": "creator",
+          "title": "लाइव आएँ, खुद को दिखाएँ",
+          "description": "गाएँ, बातें करें या अपने शौक और हुनर साझा करें। धीरे-धीरे अपने दर्शकों का समुदाय बनाएँ।",
+          "image": "social-scene-04.png",
+          "icon": "video",
+          "source": "印度-英文 5.png"
+        }
+      ],
+      "downloadTitle": "अगली मुलाकात<br>आपका इंतज़ार कर रही है।",
+      "downloadText": "पार्टी को साथ ले चलें। TiLike डाउनलोड करें।"
+    },
+    "footer": {
+      "tagline": "मिलें, लाइव आएँ और दोस्त बनाएँ।<br>हर दिन कुछ नई खुशियाँ पाएँ।",
+      "explore": "जानें",
+      "support": "सहायता",
+      "rules": "सुरक्षा और नियम",
+      "terms": "सेवा की शर्तें",
+      "privacy": "गोपनीयता नीति",
+      "children": "बाल सुरक्षा नीति",
+      "community": "समुदाय के दिशानिर्देश",
+      "bullying": "उत्पीड़न विरोधी नीति",
+      "cookies": "कुकी नीति",
+      "law": "कानून प्रवर्तन अनुरोध",
+      "settings": "कुकी प्राथमिकताएँ",
+      "copyright": "© 2026 TiLike. सर्वाधिकार सुरक्षित।"
+    },
+    "about": {
+      "eyebrow": "लोगों को जोड़ने वाला लाइव स्ट्रीमिंग प्लेटफ़ॉर्म",
+      "title": "जुड़ने के नए तरीके।<br>मुस्कुराने की नई वजहें।",
+      "intro": "TiLike पर ग्रुप वीडियो, लाइव स्ट्रीम और वॉइस चैट के साथ मिलें, बातचीत करें और मज़े करें।",
+      "heading": "एक नई दुनिया।<br>एक नई मुलाकात।",
+      "paragraphs": [
+        "TiLike की शुरुआत सिंगापुर की एक तकनीकी कंपनी ने की थी। हमारा उद्देश्य दुनिया भर के युवाओं के लिए दिलचस्प कंटेंट और ऐप बनाना है, ताकि लोग बेहतर तरीके से जुड़ सकें और मनोरंजन कर सकें।",
+        "हम मानते हैं कि TiLike जैसे उत्पाद लोगों को अपनी बात रखने, नए दोस्त बनाने और एक बड़ी दुनिया से जुड़ने के अवसर देते हैं।"
+      ],
+      "values": [
+        [
+          "अपने जैसे लोगों से मिलें",
+          "ग्रुप वीडियो और वॉइस चैट में दुनिया भर के लोगों से जुड़ें।"
+        ],
+        [
+          "खुद को व्यक्त करें",
+          "लाइव स्ट्रीम देखें या अपनी प्रतिभा और व्यक्तित्व साझा करें।"
+        ],
+        [
+          "सम्मान को जगह दें",
+          "सुरक्षा की जानकारी, समुदाय के नियम और सहायता के तरीके जानें।"
+        ]
+      ]
+    },
+    "help": {
+      "eyebrow": "हम आपकी मदद के लिए हैं",
+      "title": "थोड़ी मदद।<br>फिर से पार्टी शुरू।",
+      "intro": "अकाउंट, डाउनलोड, रिचार्ज और सुरक्षा से जुड़े सवालों के जवाब पाएँ।",
+      "placeholder": "सवाल खोजें, जैसे रिचार्ज या अकाउंट",
+      "all": "सभी सवाल",
+      "account": "अकाउंट और लॉगिन",
+      "payment": "रिचार्ज",
+      "safety": "सुरक्षा और रिपोर्ट",
+      "download": "डाउनलोड और भाषा",
+      "count": "सवाल",
+      "none": "कोई मेल खाता सवाल नहीं मिला। दूसरा शब्द खोजें या सहायता से संपर्क करें।",
+      "more": "अभी भी मदद चाहिए?",
+      "moreText": "क्या हुआ, हमें बताएँ ताकि हम आपका सवाल समझ सकें।",
+      "contact": "सहायता से संपर्क करें",
+      "preparation": {
+        "title": "सहायता से संपर्क करने से पहले",
+        "all": [
+          "अपने सवाल से संबंधित श्रेणी चुनें।",
+          "अपनी TiLike ID और समस्या का संक्षिप्त विवरण तैयार रखें।"
+        ],
+        "account": [
+          "अपनी TiLike ID, सामान्य लॉगिन तरीका और समस्या शुरू होने का समय बताएँ।",
+          "अकाउंट निलंबित है तो उसकी सूचना संलग्न करें। पासवर्ड या सत्यापन कोड साझा न करें।"
+        ],
+        "payment": [
+          "अकाउंट ID, लेनदेन संख्या, समय, राशि और भुगतान का माध्यम तैयार रखें।",
+          "संवेदनशील भुगतान जानकारी छिपाकर रसीद संलग्न करें। समस्या जाँचने के लिए दोबारा भुगतान न करें।"
+        ],
+        "safety": [
+          "संबंधित अकाउंट या रूम ID, समय और संक्षिप्त विवरण दें।",
+          "ज़रूरी सबूत सुरक्षित रखें। अनावश्यक निजी जानकारी साझा न करें।"
+        ],
+        "download": [
+          "डिवाइस का मॉडल, ऑपरेटिंग सिस्टम और डाउनलोड का माध्यम बताएँ।",
+          "समस्या का विवरण दें और उपलब्ध हो तो स्क्रीनशॉट संलग्न करें।"
+        ]
+      }
+    },
+    "faqs": [
+      [
+        "account",
+        "लॉगिन में मदद कैसे मिलेगी?",
+        "पहले वाला लॉगिन तरीका ही इस्तेमाल करें। समस्या बनी रहे तो अपनी TiLike ID, डिवाइस का प्रकार और समस्या का विवरण सहायता को भेजें। पासवर्ड या सत्यापन कोड कभी साझा न करें।"
+      ],
+      [
+        "account",
+        "अकाउंट नहीं खुल रहा हो तो क्या करें?",
+        "अपनी अकाउंट ID और सामान्य लॉगिन तरीका तैयार रखें। सहायता को बताएँ कि समस्या कब शुरू हुई। वे उपलब्ध रिकवरी विकल्प बताएँगे; अकाउंट रिकवरी के लिए सत्यापन आवश्यक है।"
+      ],
+      [
+        "account",
+        "निलंबित अकाउंट के बारे में कहाँ पूछें?",
+        "अकाउंट ID और मिली सूचना के साथ सहायता से संपर्क करें। समीक्षा के लिए समस्या साफ़ बताएँ। यह FAQ अकाउंट बहाल होने या समीक्षा की समय सीमा का वादा नहीं करता।"
+      ],
+      [
+        "payment",
+        "रिचार्ज दिखाई न दे तो क्या करें?",
+        "ऑर्डर की स्थिति और रिचार्ज किए गए अकाउंट की जाँच करें। लेनदेन संख्या, समय, राशि और संवेदनशील जानकारी छिपाया हुआ स्क्रीनशॉट रखें। समस्या बनी रहे तो सहायता से संपर्क करें। केवल जाँच के लिए दोबारा भुगतान न करें।"
+      ],
+      [
+        "payment",
+        "लेनदेन की जानकारी कहाँ मिलेगी?",
+        "इस्तेमाल किए गए भुगतान माध्यम की रसीद या लेनदेन का इतिहास देखें। संदर्भ संख्या और संबंधित TiLike ID सुरक्षित रखें। अपने कार्ड की पूरी जानकारी न भेजें।"
+      ],
+      [
+        "safety",
+        "अनुचित व्यवहार की रिपोर्ट कैसे करें?",
+        "उपलब्ध होने पर ऐप के रिपोर्ट विकल्प का इस्तेमाल करें या सहायता से संपर्क करें। अकाउंट या रूम ID, विवरण और संबंधित सबूत दें। किसी की निजी जानकारी अनावश्यक रूप से साझा न करें।"
+      ],
+      [
+        "safety",
+        "अपना अकाउंट सुरक्षित कैसे रखें?",
+        "पासवर्ड और सत्यापन कोड निजी रखें। अनौपचारिक रिचार्ज ऑफ़र, संदिग्ध लिंक और लॉगिन जानकारी माँगने वालों से सावधान रहें। आधिकारिक डाउनलोड और सहायता माध्यमों का इस्तेमाल करें।"
+      ],
+      [
+        "download",
+        "TiLike कहाँ से डाउनलोड करें?",
+        "इस वेबसाइट पर App Store, Google Play या Android APK के विकल्प चुनें। वर्तमान समीक्षा संस्करण में केवल डाउनलोड विकल्प दिखाए गए हैं; डाउनलोड लिंक अभी सक्रिय नहीं हैं।"
+      ],
+      [
+        "download",
+        "वेबसाइट की भाषा कैसे बदलें?",
+        "ऊपर दिए भाषा मेनू से वेबसाइट की भाषा चुनें। ऐप की भाषा अलग से बदली जाती है।"
+      ]
+    ],
+    "safety": {
+      "eyebrow": "सम्मान के साथ जुड़ने की जगह",
+      "title": "अच्छा साथ।<br>साझी ज़िम्मेदारी।",
+      "intro": "TiLike पर गोपनीयता, समुदाय के व्यवहार और सहायता की जानकारी पाएँ।",
+      "heading": "नियम जानें।<br>एक-दूसरे का ध्यान रखें।",
+      "description": "गोपनीयता, सेवा की शर्तों, समुदाय के नियमों और समस्या बताने के तरीकों की जानकारी यहाँ पाएँ।",
+      "current": "वर्तमान नीति",
+      "draft": "समीक्षा के लिए"
+    },
+    "policyDescriptions": {
+      "terms": "TiLike इस्तेमाल करने की शर्तें।",
+      "privacy": "प्लेटफ़ॉर्म पर जानकारी कैसे संभाली जाती है।",
+      "children": "बच्चों की सुरक्षा और गोपनीयता की जानकारी।",
+      "bullying": "उत्पीड़न विरोधी मार्गदर्शन की प्रस्तावित रूपरेखा।",
+      "cookies": "कुकी और प्राथमिकताओं के बारे में प्रस्तावित जानकारी।",
+      "community": "सम्मानपूर्वक भागीदारी के प्रस्तावित दिशानिर्देश।",
+      "law": "अधिकृत कानूनी अनुरोधों के लिए प्रस्तावित प्रवेश बिंदु।"
+    },
+    "contact": {
+      "eyebrow": "आइए बात करें",
+      "title": "अच्छी बातचीत<br>हैलो से शुरू होती है।",
+      "intro": "मदद चाहिए या कुछ साझा करना चाहते हैं? हमसे जुड़ने का सही तरीका चुनें।",
+      "supportTitle": "TiLike में मदद चाहिए?",
+      "supportText": "अकाउंट, रिचार्ज और सुरक्षा के लिए सहायता केंद्र में जानकारी देखें।",
+      "supportAction": "सहायता केंद्र खोलें",
+      "businessTitle": "साझेदारी करना चाहते हैं?",
+      "businessText": "व्यावसायिक सहयोग, क्रिएटर या सामान्य सवालों के लिए नीचे दिए फ़ॉर्म का इस्तेमाल करें।",
+      "formTitle": "अपना सवाल भेजें",
+      "formIntro": "यह प्रीव्यू फ़ॉर्म है। फ़ील्ड और प्रक्रिया देखें; कोई संदेश नहीं भेजा जाएगा।",
+      "name": "आपका नाम",
+      "email": "ईमेल पता",
+      "topic": "किस विषय में?",
+      "topics": [
+        "अकाउंट और सहायता",
+        "व्यावसायिक सहयोग",
+        "क्रिएटर संबंधी सवाल",
+        "अन्य"
+      ],
+      "message": "थोड़ा और बताएँ",
+      "placeholder": "अपना सवाल समझाने के लिए ज़रूरी जानकारी दें। पासवर्ड, सत्यापन कोड या भुगतान की पूरी जानकारी न दें।",
+      "consent": "मैंने गोपनीयता नीति पढ़ ली है और समझता/समझती हूँ कि यह प्रीव्यू फ़ॉर्म है।",
+      "submit": "भेजने की प्रक्रिया देखें",
+      "success": "फ़ॉर्म की जाँच सफल रही। यह प्रीव्यू है; कोई संदेश नहीं भेजा गया।",
+      "again": "नया सवाल लिखें"
+    },
+    "policy": {
+      "source": "TiLike की मौजूदा नीति",
+      "sourceNote": "यह नीति अभी अंग्रेज़ी में उपलब्ध है। नवीनतम प्रकाशित संस्करण के लिए आधिकारिक लिंक खोलें।",
+      "official": "मौजूदा आधिकारिक नीति खोलें",
+      "draftLabel": "प्रस्तावित सामग्री की रूपरेखा",
+      "draftNote": "यह पन्ना उत्पाद समीक्षा की रूपरेखा है, प्रकाशित नीति नहीं। लॉन्च से पहले अंतिम नीति और प्रक्रिया की पुष्टि आवश्यक है।",
+      "outline": "पुष्टि के लिए सामग्री",
+      "back": "सुरक्षा और नियम पर वापस जाएँ"
+    },
+    "cookie": {
+      "title": "आपकी कुकी प्राथमिकताएँ",
+      "intro": "इस प्रीव्यू के लिए अपनी प्राथमिकताएँ चुनें। इसमें कोई विश्लेषण या विज्ञापन ट्रैकर नहीं है।",
+      "essential": "ज़रूरी प्राथमिकताएँ",
+      "essentialText": "आपकी चुनी हुई भाषा और प्राथमिकताएँ याद रखता है।",
+      "always": "हमेशा उपलब्ध",
+      "analytics": "वैकल्पिक विश्लेषण",
+      "analyticsText": "भविष्य के विश्लेषण के लिए उदाहरण विकल्प। कोई विश्लेषण सेवा नहीं जुड़ी है।",
+      "save": "प्राथमिकताएँ सहेजें",
+      "reject": "केवल ज़रूरी",
+      "note": "जहाँ स्थानीय स्टोरेज उपलब्ध है, प्राथमिकताएँ इसी ब्राउज़र में रहेंगी। अंतिम कुकी श्रेणियों और सहमति की आवश्यकताओं की पुष्टि बाकी है।",
+      "saved": "आपकी प्रीव्यू प्राथमिकताएँ सहेज ली गई हैं।"
+    }
+  }
+}
