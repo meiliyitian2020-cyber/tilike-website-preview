@@ -4,6 +4,7 @@ import base64,copy,hashlib,html,json,re,shutil,runpy
 from PIL import Image
 root=Path(__file__).resolve().parent
 source=(root/'baseline/index.html').read_text('utf-8')
+assert hashlib.sha256((root/'baseline/index.html').read_bytes()).hexdigest()==(root/'baseline/SHA256').read_text('utf-8').strip(),'Pinned v19 template changed'
 config=json.loads((root/'brand-config.json').read_text('utf-8'))
 product_copy=json.loads((root/'product-copy.json').read_text('utf-8'))
 out=root/'dist'; assets=out/'assets'; assets.mkdir(parents=True,exist_ok=True)
@@ -58,7 +59,7 @@ poster='''function heroVideoPlaceholder(){return `<div class="hero-media-video">
 '''
 page=re.sub(r'function heroVideoPlaceholder\(\)\{.*?\n(?=function homePage)',lambda _:poster,page,flags=re.S)
 page=re.sub(r'const HERO_MEDIA=\{[^\n]*\};','const HERO_MEDIA={};',page)
-page=page.replace("if(action==='preview-download'){toast(downloadCopy().note);return;}","if(action==='preview-download'){const destination=LINKS[event.target.closest('[data-channel]').dataset.channel];if(destination){window.open(destination,'_blank','noopener,noreferrer');}else{toast(downloadCopy().note);}return;}")
+page=page.replace("if(action==='preview-download'){toast(downloadCopy().note);return;}","if(action==='preview-download'){const destination=LINKS[event.target.closest('[data-channel]').dataset.channel];if(destination){window.location.assign(destination);}else{toast(downloadCopy().note);}return;}")
 pending="""
 document.addEventListener('click',event=>{const a=event.target.closest('a');if(a&&a.getAttribute('href')===''){event.preventDefault();toast(({zh:'TiLike 网页充值地址待配置，本评审版尚未接通支付服务。',en:'TiLike web recharge is not configured. No payment service is connected.',hi:'TiLike वेब रिचार्ज कॉन्फ़िगर नहीं है। भुगतान सेवा कनेक्ट नहीं है।',id:'Isi ulang web TiLike belum dikonfigurasi. Layanan pembayaran belum terhubung.'})[lang]);}});
 """

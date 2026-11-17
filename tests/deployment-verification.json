@@ -1,0 +1,12 @@
+{
+  "checked_on": "2026-11-17",
+  "url": "https://meiliyitian2020-cyber.github.io/tilike-website-preview/?lang=zh",
+  "http_status": 200,
+  "anonymous": true,
+  "sent_cookie": false,
+  "sent_authorization": false,
+  "matches_local_html_after_line_ending_normalization": true,
+  "deployed_html_sha256_lf": "c9215e3e9402bdb73c2b9b421864534c76e7f5e96c6f489bc7f5b38b938521fa",
+  "initial_deployed_commit": "90eafbb3683d323e08d74fea5e03fe0b80453a3d",
+  "workflow_run": "https://github.com/meiliyitian2020-cyber/tilike-website-preview/actions/runs/44002266826"
+}
