@@ -1959,7 +1959,7 @@ document.addEventListener('click',event=>{
  const action=event.target.closest('[data-action]')?.dataset.action;
  if(action==='start-hero-video'){heroUserStarted=true;syncHeroVideo();return;}
  if(action==='more-downloads'){showMoreDownloads(event.target.closest('[data-action=more-downloads]'));return;}
- if(action==='preview-download'){const destination=LINKS[event.target.closest('[data-channel]').dataset.channel];if(destination){window.open(destination,'_blank','noopener,noreferrer');}else{toast(downloadCopy().note);}return;}
+ if(action==='preview-download'){const destination=LINKS[event.target.closest('[data-channel]').dataset.channel];if(destination){window.location.assign(destination);}else{toast(downloadCopy().note);}return;}
  if(action==='close-dialog'||(action==='backdrop'&&event.target.classList.contains('dialog-backdrop'))){closeDialog();return;}
  if(action==='cookies'){showCookies();return;}
  if(action==='cookie-save'||action==='cookie-reject'){storage.set('tilike-preview-cookies',JSON.stringify({analytics:action==='cookie-save'&&$('#analytics-choice').checked,updatedAt:new Date().toISOString()}));closeDialog();toast(data().cookie.saved);return;}
